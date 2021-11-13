@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 2rem;
+  border: 2px solid red;
+  border-radius: 1rem;
+  width: 80%;
+  text-align: center;
+  font-size: 1rem;
+}
+.offHeading {
+  color: red;
+}
+input:hover {
+  border: 2px solid black;
+}
+
+.meaning {
+  font-weight: bold;
+}
